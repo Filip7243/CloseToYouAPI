@@ -1,6 +1,6 @@
 # API for CloseToYouAPP
 
-Simple REST API created with Java and SpringBoot for mobile APP [CloseToYou](https://github.com/Filip7243/CloseToYouApp) that contains databse with localization data. 
+Simple REST API created with Java and SpringBoot for mobile APP [CloseToYou](https://github.com/Filip7243/CloseToYouApp).
 
 ## Used Tools
 
